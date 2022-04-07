@@ -1,6 +1,6 @@
 tabulate==0.8.9
 black==22.1.0
-pylint==2.12.2
+pylint==2.13.5
 flake8==4.0.1
 click==8.0.4
 pdoc==10.0.3
